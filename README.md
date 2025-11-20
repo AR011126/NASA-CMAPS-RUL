@@ -11,9 +11,8 @@ This project includes:
 
 PROJECT STRUCTURE
 NASA-DATASET/
-│
 ├── data/
-│ └── raw/ # Raw CMAPSS text files (ignored by Git)
+└── raw/ # Raw CMAPSS text files (ignored by Git)
 │
 ├── notebooks/
 │ └── 01_data_preparation.ipynb
