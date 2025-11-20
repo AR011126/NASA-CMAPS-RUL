@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Environment variabes
+.env 
+
+# SQL credentials
+secret.json
+*.db
+
+# OS files
+.DS_Store
+
+# Virtual environments
+venv/
+.env/
+
+# Large data files
+data/raw/
+data/raw/*
+
+# Model outputs
+models/
+*.pkl
+*.joblib
+
+#logs
+*.log
+logs/
+
+#IDE
+.vscode/
+.idea/
