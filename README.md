@@ -90,7 +90,7 @@ Reproducible research structure:
   6. Store the cleaned dataset in clean_fd00X
 
   ## ML PIPELINE
-  1. Feature Engineering
+1. Feature Engineering
      The following engineered features greatly improved model performance:
         - Rolling mean (window=5): sensor_i_roll5
         - Rolling standard deviation: sensor_i_std5
