@@ -115,4 +115,4 @@ Reproducible research structure:
     MYSQL_USER=root
     MYSQL_PASSWORD=your_password
     MYSQL_DATABASE=nasa_cmaps
-   
+- Run the notebook 
