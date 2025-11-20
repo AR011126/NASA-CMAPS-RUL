@@ -105,13 +105,13 @@ Reproducible research structure:
 
 
    ## ENVIRONMENT SETUP
-   1. Clone repository
+1. Clone repository
         git clone https://github.com/AR011126/NASA-CMAPS-RUL.git
         cd NASA-CMAPS-RUL
-  2. Create Environment
+2. Create Environment
        pip install -r requirements.txt
-  3. Set Up MYSQL Credentials in .env file
-     MYSQL_HOST=localhost
+3. Set Up MYSQL Credentials in .env file
+    MYSQL_HOST=localhost
     MYSQL_USER=root
     MYSQL_PASSWORD=your_password
     MYSQL_DATABASE=nasa_cmaps
